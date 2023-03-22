@@ -1,1 +1,1 @@
-alphABET
+alphabet
