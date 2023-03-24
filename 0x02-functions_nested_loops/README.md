@@ -1,1 +1,1 @@
-a + b
+print to 98
