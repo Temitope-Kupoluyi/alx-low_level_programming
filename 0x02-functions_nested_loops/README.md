@@ -1,1 +1,1 @@
-abs
+print last digit
