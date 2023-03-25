@@ -1,1 +1,1 @@
-print diagonal
+print square
