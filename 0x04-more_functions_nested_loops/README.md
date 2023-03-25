@@ -1,1 +1,1 @@
-numbers and signs
+universal language
