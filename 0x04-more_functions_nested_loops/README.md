@@ -1,1 +1,1 @@
-universal language
+straight line
