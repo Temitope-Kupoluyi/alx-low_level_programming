@@ -1,1 +1,1 @@
-prime factor
+symbols on paper
