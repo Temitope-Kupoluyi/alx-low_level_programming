@@ -1,1 +1,1 @@
-print traingle
+prime factor
