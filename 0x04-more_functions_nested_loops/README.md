@@ -1,1 +1,1 @@
-straight line
+print diagonal
