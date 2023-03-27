@@ -1,1 +1,1 @@
-Only go one way
+reverse string
