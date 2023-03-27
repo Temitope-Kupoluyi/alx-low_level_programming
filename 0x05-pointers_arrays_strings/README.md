@@ -1,1 +1,1 @@
-Fear
+Only go one way
