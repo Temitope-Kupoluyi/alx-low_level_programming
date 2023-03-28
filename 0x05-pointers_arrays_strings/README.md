@@ -1,1 +1,1 @@
-Other half
+Arrays are not pointers
