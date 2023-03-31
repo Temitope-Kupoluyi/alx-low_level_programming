@@ -1,1 +1,1 @@
-Dream doesn't become reality
+Romatic character in art
