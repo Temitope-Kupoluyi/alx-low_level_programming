@@ -1,1 +1,1 @@
-Always look up
+Expect the best
