@@ -1,1 +1,1 @@
-Numbers have life
+Dream doesn't become reality
