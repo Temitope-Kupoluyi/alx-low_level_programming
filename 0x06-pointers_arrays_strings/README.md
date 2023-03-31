@@ -1,1 +1,1 @@
-paranoid in reverse
+Always look up
