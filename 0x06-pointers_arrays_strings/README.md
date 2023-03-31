@@ -1,1 +1,1 @@
-strcmp
+paranoid in reverse
